@@ -34,8 +34,7 @@ flowchart TD
 
     class A start;
     class B,F,J decision;
-    class C,D,E,G,G1,G2,G3,G4,G5,H,I,L,M action;
-    class K,N end;
+    class C,D,E,G,G1,G2,G3,G4,G5,H,I,L,M action;`classDef nodoFinal fill:#f8d7da...`).
 ```
 
 ## Descripción del proceso
